@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "895473637242",
+    "firebase_url": "https://mrmusicplayer-9302e.firebaseio.com",
+    "project_id": "mrmusicplayer-9302e",
+    "storage_bucket": "mrmusicplayer-9302e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895473637242:android:4d28ceae0517f1ab0628c3",
+        "android_client_info": {
+          "package_name": "com.example.mrmusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895473637242-70aa1i1qk85ihnpd2kfj3mp6hps2u0t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBew8H00LGJk12VgBtBxexa8i-eKs8M3r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895473637242-70aa1i1qk85ihnpd2kfj3mp6hps2u0t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
